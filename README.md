@@ -1,3 +1,4 @@
+<img src="https://github.com/captain-7/captain-7/blob/main/banner.gif" height="300" style="max-widht: 100%; position: relative; left: 40%"/>
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Passionate about Cybersecurity, Programming, Frontend & Backend Developer.<br> LOVE FROM INDIA</h3>
 
